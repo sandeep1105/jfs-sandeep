@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: mysql-rest-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sandeep
+Implementation-Vendor-Id: com.javacrud
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/mysql-rest-s
+ ervices/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
